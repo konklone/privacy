@@ -15,12 +15,32 @@ Read more at: ...
 ## Tools for using OpenPGP on your device
 
 [GPG](https://www.gnupg.org/)
-[MacGPG Tools](https://gpgtools.org/)
 
+[MacGPG Tools](https://gpgtools.org/) - download and install the suite
+
+[mailvelope](https://mailvelope.com/) - OpenPGP encryption for webmail. It's a browser extension that allows exchange of encrypted emails following the OpenPGP encryption standard. 
 
 ## What signed email *doesn't* guarantee
 
+It doesn't guarantee that the person claimed in the FROM line is actually the person you think it's from. You'll need to confirm that the private key used to sign the message matches the key held by that person. Check the Short ID and/or talk with them to confirm.
+
+It doesn't guarantee that others haven't read your message.
+
+Or that people haven't gathered the meaning of your message from parts of your email that are NOT encrypted, like the subject line, or time and other meta-data associated with your message.
+
+
+
 ## What's next?
+
+Download, install, and create your first key. 
+
+Upload it to a keyserver.
+
+Find a friend and do the same.
+
+Try sending an encrypted email between the two of you.
+
+Optional: Sign each other's keys (in person, confirming that you're signing the right keys).
 
 ## Insecure ways to verify signatures
 ![XKCD explains PGP.](http://imgs.xkcd.com/comics/pgp.png)
