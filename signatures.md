@@ -14,6 +14,10 @@ Read more at: ...
 
 ## Tools for using OpenPGP on your device
 
+[GPG](https://www.gnupg.org/)
+[MacGPG Tools](https://gpgtools.org/)
+
+
 ## What signed email *doesn't* guarantee
 
 ## What's next?
