@@ -9,3 +9,4 @@ More things for later
 * using an email client with PGP built in
 * marking keys as trusted
 * managing multiple keys you could sign with (when the default isn't the right one)
+* Mac OS X instructions and screens
