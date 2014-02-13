@@ -1,4 +1,3 @@
-
 ```
 $ gpg --gen-key
 
@@ -22,7 +21,7 @@ What keysize do you want? (2048)
 
 
 ```
-Requested keysize is 4096 bits
+Requested keysize is 2048 bits
 Please specify how long the key should be valid.
          0 = key does not expire
       <n>  = key expires in n days
