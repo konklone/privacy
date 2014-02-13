@@ -29,3 +29,17 @@ Primary key fingerprint: 4FF3 AA1B D29E 1638 32DE  C765 9433 5F88 9A36 7709
 
 
 now read email-received.txt
+
+
+### or import from keyserver
+
+```
+$ gpg --keyserver pgp.mit.edu --recv-key 0x4a9f7055a9a06df1
+```
+
+```
+gpg: requesting key A9A06DF1 from hkp server pgp.mit.edu
+gpg: key A9A06DF1: public key "Phil Collins <shauna@communityred.org>" imported
+gpg: Total number processed: 1
+gpg:               imported: 1  (RSA: 1)
+```

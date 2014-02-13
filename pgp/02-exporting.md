@@ -14,9 +14,9 @@ Version: GnuPG v1.4.14 (GNU/Linux)
 
 
 ```
-$ gpg --armor --export eric@konklone.com > eric-public-key.asc
+$ gpg --armor --export eric@konklone.com > key.asc
 ```
 
 ### put it somewhere
 
-e.g. https://konklone.com/eric-pgp-public.asc
+e.g. https://konklone.com/key.asc

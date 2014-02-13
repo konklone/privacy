@@ -19,3 +19,7 @@ Version: GnuPG v1.4.14 (GNU/Linux)
 ```
 $ gpg --armor --export-secret-keys eric@konklone.com > eric-private-key.asc
 ```
+
+
+### generating private key fingerprint for signing party or whatever
+
