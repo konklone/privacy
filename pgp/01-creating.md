@@ -17,7 +17,7 @@ Your selection?
 
 ```
 RSA keys may be between 1024 and 4096 bits long.
-What keysize do you want? (2048)
+What keysize do you want? (2048) 4096
 ```
 
 
