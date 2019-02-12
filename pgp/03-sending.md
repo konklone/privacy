@@ -56,5 +56,13 @@ you may answer the next question with yes.
 Use this key anyway? (y/N)
 ```
 
+Multiple recipients can by reusing the `--recipient` flag:
+
+```
+$ gpg --output email-send.asc --sign --armor --encrypt \
+    --recipient parker@eff.org \
+    --recipient mike@free.law email-send.txt
+```
+
 
 ### paste into gmail!
